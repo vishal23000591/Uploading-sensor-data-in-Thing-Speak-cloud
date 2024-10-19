@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7f544665-bb9f-451f-8768-fc85c3ce7b3c)#### Name: Rakesh v
+#### Name: Rakesh V
+
 #### Reg.No: 212222110036
 # Experiment 3: Uploading temperature sensor data in Thing Speak cloud
 
