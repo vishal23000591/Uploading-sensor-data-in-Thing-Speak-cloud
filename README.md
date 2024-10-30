@@ -1,6 +1,6 @@
-#### Name: Rakesh V
+#### Name: Vishal S
+#### Reg.No: 212223110063
 
-#### Reg.No: 212222110036
 # Experiment 3: Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
@@ -131,7 +131,7 @@ void loop()
 ```
 
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/18399935-aff1-4881-aa09-b03990b04c69)
+![IoT temperature censor](https://github.com/user-attachments/assets/5e09c53c-da6f-4ad5-8e54-c28d587a91b8)
 
 
 # OUTPUT:
@@ -139,8 +139,6 @@ void loop()
 ![image](https://github.com/user-attachments/assets/bc32ceff-5673-4ba1-8a06-2edb6d50c6d0)
 
 
-## SERIAL MONITOR
-![image](https://github.com/user-attachments/assets/e46ec3af-6f92-4177-9897-81bb4ed2df9f)
 
 
 # RESULT:
